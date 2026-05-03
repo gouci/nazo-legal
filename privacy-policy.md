@@ -1,5 +1,10 @@
+Privacy Policy for Nazo
+Last Updated: May 3, 2026
 
-Terms of Use — Nazo
-By using Nazo, you agree to these terms. The app is provided as-is for entertainment purposes. You must be 13 or older to use the app. Do not misuse the app or attempt to manipulate rankings. In-app purchases are final except where required by law. We reserve the right to update these terms at any time. For questions, contact guillaume.coulbaux@gmail.com 
+Nazo uses Google AdMob to display advertisements. We collect anonymous data (such as advertising ID and usage data) to provide personalized or non-personalized ads. This data is shared with Google (see their privacy policy: https://policies.google.com/privacy).
 
-© Guillaume Coulbaux 2026
+Your Rights: You may request access, correction, or deletion of your data by contacting us at [your email]. You can disable personalized ads in the app’s settings.
+
+Children: This app is not intended for children under 13 years of age.
+
+Contact: guillaume.coulbaux@gmail.com
